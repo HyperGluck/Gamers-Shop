@@ -1,0 +1,201 @@
+[{
+  "_id": {
+    "$oid": "60e850123a2fcd35886564e3"
+  },
+  "SerialNumber": "1",
+  "Name": "Sony Playstation 4 500GB",
+  "Price": 1300,
+  "Category": "Console",
+  "Description": "The package includes: Playstation 4 console European model DUALSHOCK 4 wireless remote control HDMI cable Electricity cable USB charging cable Her ears with a microphone",
+  "ImgUrl": "../assets/images/PlayStation4.gif"
+},{
+  "_id": {
+    "$oid": "60e851353a2fcd35886564ec"
+  },
+  "SerialNumber": "2",
+  "Name": "Sony PlayStation 5 825GB Blu-ray Edition",
+  "Price": 4500,
+  "Category": "Console",
+  "Description": "The next generation console is here! A new gaming experience on the doorstep! Amazing graphics in 4K and 8K resolution with full support with HDR, image refresh rate of up to 120FPS and 825GB SSD fast drive.",
+  "ImgUrl": "../assets/images/PlayStation5.gif"
+},{
+  "_id": {
+    "$oid": "60e851723a2fcd35886564ed"
+  },
+  "SerialNumber": "3",
+  "Name": "Sony PlayStation 4 Slim 1TB",
+  "Price": 1700,
+  "Category": "Console",
+  "Description": "Playstation 4 Slim Pal console European model CUH-2016B DUALSHOCK 4 wireless remote control, new model v2 HDMI cable Electricity cable USB charging cable",
+  "ImgUrl": "../assets/images/PlayStation4Slim.jpg"
+},{
+  "_id": {
+    "$oid": "60e851e83a2fcd35886564ee"
+  },
+  "SerialNumber": "4",
+  "Name": "Microsoft XBOX 360 4GB SLIM",
+  "Price": 800,
+  "Category": "Console",
+  "Description": "Xbox 360 RGH / JTAG converted by an advanced chip to perform RESET GLITCH perfectly and quickly and transformer for electricity High quality HDMI cable Wireless joystick",
+  "ImgUrl": "../assets/images/XBOX360.jpg"
+},{
+  "_id": {
+    "$oid": "60e852353a2fcd35886564ef"
+  },
+  "SerialNumber": "5",
+  "Name": "Microsoft Xbox Series X 1T",
+  "Price": 1500,
+  "Category": "Console",
+  "Description": "Video format support: Gaming Resolution. True 4K High Dynamic Range. Up to 8K HDR Performance Target. Up to 120 FPS",
+  "ImgUrl": "../assets/images/XBOX360series.jpg"
+},{
+  "_id": {
+    "$oid": "60e852633a2fcd35886564f0"
+  },
+  "SerialNumber": "6",
+  "Name": "Microsoft Xbox One S 1TB",
+  "Price": 1200,
+  "Category": "Console",
+  "Description": "Watch Blu-Ray content in stunning 4K UHD quality Whether youre playing, watching or streaming, Xbox One X delivers stunning HDR graphicsSee the TV in a different light - Games on Xbox One X also look great on a 1080p screen",
+  "ImgUrl": "../assets/images/XBOX360oneS.jpg"
+},{
+  "_id": {
+    "$oid": "60e852a93a2fcd35886564f1"
+  },
+  "SerialNumber": "7",
+  "Name": "Microsoft Xbox One 500GB",
+  "Price": 1000,
+  "Category": "Console",
+  "Description": "Microsofts Xbox One comes in an amazing design with innovative touch buttons!",
+  "ImgUrl": "../assets/images/XBOX ONE 500GB.jpg"
+},{
+  "_id": {
+    "$oid": "60e852ef3a2fcd35886564f2"
+  },
+  "SerialNumber": "8",
+  "Name": "XBOX ONE Wireless White Controller",
+  "Price": 247,
+  "Category": "Accesserios",
+  "Description": "buttons, 2 360 ° analog handles. Suitable for PC / XBOX ONE console You can connect stereo headphones of any type, with a 3.5 mm socket. Bluetooth technology works with Windows 10, tablets, and phone",
+  "ImgUrl": "../assets/images/ONE.jpg"
+},{
+  "_id": {
+    "$oid": "60e853283a2fcd35886564f3"
+  },
+  "SerialNumber": "9",
+  "Name": "Xbox ONE Wireless Controller Series X",
+  "Price": 349,
+  "Category": "Accesserios",
+  "Description": "Experience the enhanced comfort of the new Xbox Wireless Controller, featuring a sleeker, more streamlined design. Get up to twice the wireless range",
+  "ImgUrl": "../assets/images/Xbox One serie x.jpg"
+},{
+  "_id": {
+    "$oid": "60e853623a2fcd35886564f4"
+  },
+  "SerialNumber": "10",
+  "Name": "Xbox ONE S Phantom Wireless Controller",
+  "Price": 299,
+  "Category": "Accesserios",
+  "Description": "Equip yourself with the Xbox Wireless Controller – Phantom Magenta Special Edition, featuring a translucent design that fades to dark pink, and textured grip for enhanced comfort.",
+  "ImgUrl": "../assets/images/PhantomBlack.gif"
+},{
+  "_id": {
+    "$oid": "60e853873a2fcd35886564f5"
+  },
+  "SerialNumber": "11",
+  "Name": "Wireless Controller Microsoft xBox 360",
+  "Price": 189,
+  "Category": "Accesserios",
+  "Description": "Experience the modernized design of the Xbox Wireless Controller, featuring sculpted surfaces and refined geometry for enhanced comfort during gameplay.",
+  "ImgUrl": "../assets/images/Controller360.gif"
+},{
+  "_id": {
+    "$oid": "60e853b73a2fcd35886564f6"
+  },
+  "SerialNumber": "12",
+  "Name": "Playstation Controller 4 RED",
+  "Price": 269,
+  "Category": "Accesserios",
+  "Description": "Our most comfortable, intuitive controller ever designed. Now even better, and available in a range of colours and styles.",
+  "ImgUrl": "../assets/images/ControllerRED.gif"
+},{
+  "_id": {
+    "$oid": "60e853e23a2fcd35886564f7"
+  },
+  "SerialNumber": "13",
+  "Name": "RAZER Raion Arcade Gamepad",
+  "Price": 220,
+  "Category": "Accesserios",
+  "Description": "When the competition bears their fangs, claim your place as the apex predator with the Razer Raion—a fighting game controller built for the fighting game community. Bristling with top-tier features that enhance your control and execution, this is the evolution you need to reach the top of the food chain.",
+  "ImgUrl": "../assets/images/RAZER.gif"
+},{
+  "_id": {
+    "$oid": "60e8541c3a2fcd35886564f8"
+  },
+  "SerialNumber": "14",
+  "Name": "Sony PS4 Dual Shock 4 Classic",
+  "Price": 280,
+  "Category": "Accesserios",
+  "Description": "Our most comfortable, intuitive controller ever designed. Now even better, and available in a range of colours and styles.",
+  "ImgUrl": "../assets/images/dualshock 4.jpg"
+},{
+  "_id": {
+    "$oid": "60e8544f3a2fcd35886564f9"
+  },
+  "SerialNumber": "15",
+  "Name": "Grand Theft Auto V PS4",
+  "Price": 180,
+  "Category": "Games",
+  "Description": "Grand Theft Auto V is a 2013 action-adventure game developed by Rockstar North and published by Rockstar Games. It is the first main entry in the Grand Theft Auto series since 2008s Grand Theft Auto IV.Set within the fictional state of San Andreas",
+  "ImgUrl": "../assets/images/VPS4.jpg"
+},{
+  "_id": {
+    "$oid": "60e8547d3a2fcd35886564fa"
+  },
+  "SerialNumber": "16",
+  "Name": "NBA 2K21 PS4",
+  "Price": 100,
+  "Category": "Games",
+  "Description": "NBA 2K21 is a basketball simulation video game that was developed by Visual Concepts and published by 2K Sports, based on the National Basketball Association (NBA). It is the 22nd installment in the NBA 2K franchise and the successor to NBA 2K20.",
+  "ImgUrl": "../assets/images/NBA.jpg"
+},{
+  "_id": {
+    "$oid": "60e854aa3a2fcd35886564fb"
+  },
+  "SerialNumber": "17",
+  "Name": "Demons Souls PS5",
+  "Price": 100,
+  "Category": "Games",
+  "Description": "Demons Souls is an action role - playing game developed by FromSoftware for the PlayStation 3 under the supervision of Japan Studio.It was published in Japan by Sony Computer Entertainment in February 2009, in North America.",
+  "ImgUrl": "../assets/images/DemonsSouls.jpg"
+},{
+  "_id": {
+    "$oid": "60e854d63a2fcd35886564fc"
+  },
+  "SerialNumber": "18",
+  "Name": "FIFA 21 Standard  PS4",
+  "Price": 100,
+  "Category": "Games",
+  "Description": "FIFA 21 is a football simulation video game published by Electronic Arts as part of the FIFA series.",
+  "ImgUrl": "../assets/images/Fifa21.jpg"
+},{
+  "_id": {
+    "$oid": "60e855123a2fcd35886564fd"
+  },
+  "SerialNumber": "19",
+  "Name": "Call of Duty®: Black Ops Cold War Xbox",
+  "Price": 100,
+  "Category": "Games",
+  "Description": "Call of Duty: Warzone is a free-to-play battle royale video game released on March 10, 2020, for PlayStation 4, Xbox One, and Microsoft Windows. The game is a part of the 2019 title Call of Duty: Modern Warfare but does not require purchase",
+  "ImgUrl": "../assets/images/CallofDuty.jpeg"
+},{
+  "_id": {
+    "$oid": "60e855553a2fcd35886564fe"
+  },
+  "SerialNumber": "20",
+  "Name": "Call of Duty: Warzone PS4/PS5/XBOX/PC",
+  "Price": 100,
+  "Category": "Games",
+  "Description": "Nine noble families fight for control over the lands of Westeros, while an ancient enemy returns after being dormant for millennia.",
+  "ImgUrl": "../assets/images/WarZone.jpg"
+}]

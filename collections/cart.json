@@ -1,0 +1,37 @@
+[{
+  "_id": {
+    "$oid": "60edd4a6b8ad853d8c310bc9"
+  },
+  "SerialNumber": "1",
+  "Name": "Sony Playstation 4 500GB",
+  "Price": 1300,
+  "Category": "Console",
+  "Description": "The package includes: Playstation 4 console European model DUALSHOCK 4 wireless remote control HDMI cable Electricity cable USB charging cable Her ears with a microphone",
+  "ImgUrl": "../assets/images/PlayStation4.gif",
+  "mail": "yonisimhon@gmail.com",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60edd4a7b8ad853d8c310bca"
+  },
+  "SerialNumber": "2",
+  "Name": "Sony PlayStation 5 825GB Blu-ray Edition",
+  "Price": 4500,
+  "Category": "Console",
+  "Description": "The next generation console is here! A new gaming experience on the doorstep! Amazing graphics in 4K and 8K resolution with full support with HDR, image refresh rate of up to 120FPS and 825GB SSD fast drive.",
+  "ImgUrl": "../assets/images/PlayStation5.gif",
+  "mail": "yonisimhon@gmail.com",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60edd4c5b8ad853d8c310bcb"
+  },
+  "SerialNumber": "1",
+  "Name": "Sony Playstation 4 500GB",
+  "Price": 1300,
+  "Category": "Console",
+  "Description": "The package includes: Playstation 4 console European model DUALSHOCK 4 wireless remote control HDMI cable Electricity cable USB charging cable Her ears with a microphone",
+  "ImgUrl": "../assets/images/PlayStation4.gif",
+  "mail": "kareem9245@gmail.com",
+  "__v": 0
+}]

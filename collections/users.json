@@ -1,0 +1,17 @@
+[{
+  "_id": {
+    "$oid": "60e855b73a2fcd3588656501"
+  },
+  "name": "Yonathan Simhon",
+  "email": "yonisimhon@gmail.com",
+  "password": "12345678",
+  "pele": "0542587909"
+},{
+  "_id": {
+    "$oid": "60e855f93a2fcd3588656502"
+  },
+  "name": "Karim Kablan",
+  "email": "kareem9245@gmail.com",
+  "password": "87654321",
+  "pele": "0526674766"
+}]
