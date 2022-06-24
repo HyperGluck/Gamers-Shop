@@ -1,0 +1,34 @@
+<ng-container *ngFor="let p of products;">
+  <ng-container *ngIf='p.Category==selectedCategory;'>
+    <div class="card border-info mb-3" style="max-width: 20rem; display:inline-block;margin-left: 20px; margin-top: 50px;">
+      <div class="card-header" style="text-align: center;">{{selectedCategory}}</div>
+      <div class="card-body">
+        <h4 class="card-title" style="text-align: center;"><b>{{p.Name}}</b></h4>
+        <div class="container"><img src="{{p.ImgUrl}}" style="width: 150px;height: 150px;"></div>
+        <h2 class="text-center"><b>{{p.Price}}₪</b></h2>
+        <div class="row">
+          <div class="col">
+            <a [routerLink]="['/products-page', p.Name]">More Details</a>
+
+          </div>
+          <div class="col">
+            <button (click)="AddToCart(p)" class="btn btn-success">Add to cart</button>
+          </div>
+        </div>
+
+      </div>
+      </div>
+</ng-container>
+</ng-container>
+
+
+
+
+
+
+
+
+
+
+
+

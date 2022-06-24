@@ -1,0 +1,38 @@
+<app-topnavbar></app-topnavbar>
+
+
+<h1 class="display-4" style="text-align: center; font-family:Ravie">Welcome to GamesZone</h1>
+<br /><br /><br />
+
+<div style="text-align:center"><img src='../assets/images/newcollection.jpg'  width="25%"></div> <br /><br /><br /><br />
+<ng-container *ngFor="let p of products;">
+  <div *ngIf='p.Price>1100'  style="display:inline-block; width:400px; padding: 5px 20px;">
+    <div class="card border-info mb-3" style="max-width: 20rem;">
+      <div class="card-body">
+        <h4 class="card-title">{{p.Name}}</h4>
+        <img class="card-img-bottom" src="{{p.ImgUrl}}" alt="Card image" style="width:40%">
+      </div>
+      <h2 style="width:200px; font-size:large" class="badge badge-pill badge-info">{{p.Price}}₪</h2>
+    </div>
+  </div>
+</ng-container>
+
+<div style="text-align:center"><img src='../assets/images/Sale.png'  width="25%"></div> <br /><br /><br /><br />
+
+
+
+<ng-container *ngFor="let p of products;">
+  <div *ngIf='p.Price==100'  style="display:inline-block; width:400px; padding: 5px 20px;">
+    <div class="card border-info mb-3" style="max-width: 20rem;">
+      <div class="card-body">
+        <h4 class="card-title">{{p.Name}}</h4>
+        <img class="card-img-bottom" src="{{p.ImgUrl}}" alt="Card image" style="width:40%">
+      </div>
+      <h2 style="width:200px; font-size:large" class="badge badge-pill badge-info">{{p.Price}}₪</h2>
+    </div>
+  </div>
+</ng-container>
+
+<app-footer></app-footer>
+
+

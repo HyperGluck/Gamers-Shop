@@ -1,0 +1,38 @@
+<app-topnavbar></app-topnavbar>
+
+
+<ng-container *ngFor="let c of Cart;">
+  <div *ngIf="c!=empty" class="row" style="display:inline-block;margin-left: 20px; margin-top: 50px;">
+   
+    <ng-container *ngIf="c.mail==share" >
+
+      <div class="card border-success mb-3" style="max-width: 20rem;">
+        <div class="card-body">
+          <h4 class="card-title" style="text-align: center;"><b>{{c.Name}}</b></h4>
+          <div class="container"><img src="{{c.ImgUrl}}" style="width: 150px;height: 150px;"></div>
+          <h2 class="text-center"><b>{{c.Price}}₪</b></h2>
+        </div>
+        <button class="btn btn-danger" (click)="removeProduct(c)">Delete</button>
+      </div>
+    </ng-container>
+  </div>
+</ng-container>
+
+<div style="margin-left:1%">
+<table style="width:20%"class="table-active">
+  <tr>
+    <th>Total Sum</th>
+    <th>Total Items</th>
+    </tr>
+  <tr>
+    <td><h5><i>{{Sum}}₪</i></h5></td>
+    <td><h5><i>{{counter}}</i></h5></td>
+
+
+  </tr>
+
+</table>
+  </div>
+
+
+

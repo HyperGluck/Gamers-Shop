@@ -1,0 +1,15 @@
+<app-topnavbar></app-topnavbar>
+
+<div class="conteiner">
+  <div class="row">
+    <div class="col-sm-" style="margin-left: 25px;">
+      <app-product-menu></app-product-menu>
+    </div>
+    <div class="col">
+      <div *ngIf="productMenu?.showProductComponent">
+        <app-products-page [selectedCategory]="productMenu?.selectedCategory"></app-products-page>
+      </div>
+    </div>
+  </div>
+</div>
+<app-footer></app-footer>

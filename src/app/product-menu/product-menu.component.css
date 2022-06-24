@@ -1,0 +1,49 @@
+body {
+  margin: 0;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: linear-gradient(to right bottom, gold, chocolate);
+}
+
+nav button {
+  list-style-type: none;
+  padding: 0;
+}
+
+  nav button {
+    font-size: 30px;
+    font-family: sans-serif;
+    background-color: white;
+    border: 2px solid black;
+    letter-spacing: 0.1em;
+    width: 10em;
+    height: 2em;
+    line-height: 1.5em;
+    position: relative;
+    overflow: hidden;
+    margin: 0.5em;
+    cursor: pointer;
+  }
+
+    nav ul li span {
+      color: white;
+      mix-blend-mode: difference;
+    }
+
+    nav button::before {
+      content: '';
+      position: absolute;
+      width: 1.5em;
+      height: inherit;
+      background-color:cadetblue;
+      border-radius: 50%;
+      top: 0;
+      left: -0.75em;
+      transition: 0.5s ease-out;
+    }
+
+    nav button:hover::before {
+      transform: scale(7);
+    }
